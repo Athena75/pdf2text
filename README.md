@@ -9,7 +9,7 @@ This Python script extracts text and tables from a PDF file.
 
 ## Usage
 
-1. Place the PDF file you want to process in the specified location `data/row`.
+1. Place the PDF file you want to process in the specified location `data/raw`.
 2. Update the `pdf_path` variable in the script with the path to your PDF file.
 3. Set the `output_folder` variable to the desired folder to save the extracted CSV files and text file: `data/processed`.
 4. Run the script:
